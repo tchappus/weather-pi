@@ -1,0 +1,172 @@
+{
+    "weatherCodes": [
+        {
+            "desc": "",
+            "icon": ""
+        },
+        {
+            "desc": "Sunny",
+            "icon": "\uf185"
+        },
+        {
+            "desc": "Mostly\nSunny",
+            "icon": "\uf185"
+        },
+        {
+            "desc": "Partly\nSunny",
+            "icon": "\uf6c4"
+        },
+        {
+            "desc": "Intermittent\nClouds",
+            "icon": "\uf6c4"
+        },
+        {
+            "desc": "Hazy\nSunshine",
+            "icon": "\uf6c4"
+        },
+        {
+            "desc": "Mostly\nCloudy",
+            "icon": "\uf0c2"
+        },
+        {
+            "desc": "Cloudy",
+            "icon": "\uf0c2"
+        },
+        {
+            "desc": "Overcast",
+            "icon": "\uf0c2"
+        },
+        {},
+        {},
+        {
+            "desc": "Fog",
+            "icon": "\uf75f"
+        },
+        {
+            "desc": "Showers",
+            "icon": "\uf740"
+        },
+        {
+            "desc": "Cloudy\nw/ Showers",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Sunny\nw/ Showers",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Thunderstorms",
+            "icon": "\uf76c"
+        },
+        {
+            "desc": "Cloudy w/\nThunderstorms",
+            "icon": "\uf76c"
+        },
+        {
+            "desc": "Sunny w/\nThunderstorms",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Rain",
+            "icon": "\uf73d"
+        },
+        {
+            "desc": "Flurries",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Cloudy w/\nFlurries",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Sunny w/\nFlurries",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Snow",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Cloudy w/\nSnow",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Ice",
+            "icon": "\uf7ad"
+        },
+        {
+            "desc": "Sleet",
+            "icon": "\uf7ad"
+        },
+        {
+            "desc": "Freezing Rain",
+            "icon": "\uf7ad"
+        },
+        {},
+        {},
+        {
+            "desc": "Rain and Snow",
+            "icon": "\uf73d"
+        },
+        {
+            "desc": "Hot",
+            "icon": "\uf769"
+        },
+        {
+            "desc": "Cold",
+            "icon": "\uf76b"
+        },
+        {
+            "desc": "Windy",
+            "icon": "\uf72e"
+        },
+        {
+            "desc": "Clear",
+            "icon": "\uf186"
+        },
+        {
+            "desc": "Mostly\nClear",
+            "icon": "\uf186"
+        },
+        {
+            "desc": "Partly\nCloudy",
+            "icon": "\uf6c3"
+        },
+        {
+            "desc": "Intermittent\nClouds",
+            "icon": "\uf6c3"
+        },
+        {
+            "desc": "Hazy\nMoonlight",
+            "icon": "\uf6c3"
+        },
+        {
+            "desc": "Mostly\nCloudy",
+            "icon": "\uf6c3"
+        },
+        {
+            "desc": "Cloudy w/\nShowers",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Cloudy w/\nShowers",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Cloudy w/\nThunderstorms",
+            "icon": "\uf76c"
+        },
+        {
+            "desc": "Cloudy w/\nThunderstorms",
+            "icon": "\uf743"
+        },
+        {
+            "desc": "Cloudy w/\nFlurries",
+            "icon": "\uf2dc"
+        },
+        {
+            "desc": "Cloudy w/\nSnow",
+            "icon": "\uf2dc"
+        }
+    ]
+}
