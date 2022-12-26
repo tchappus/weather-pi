@@ -12,19 +12,19 @@ monaco = ImageFont.truetype('./fonts/Monaco.ttf', 10)
 monaco_lg = ImageFont.truetype('./fonts/Monaco.ttf', 14)
 
 moon_phase_icons = {
-    'FirstQuarter': {
+    'First': {
         'icon': './icons/first-quarter.jpg',
         'desc': '1stQ'
     },
-    'FullMoon': {
+    'Full': {
         'icon': './icons/full-moon.jpg',
         'desc': 'FullM'
     },
-    'LastQuarter': {
+    'Last': {
         'icon': './icons/last-quarter.jpg',
         'desc': 'LastQ'
     },
-    'NewMoon': {
+    'New': {
         'icon': './icons/new-moon.jpg',
         'desc': 'NewM'
     },
